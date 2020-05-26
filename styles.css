@@ -1,0 +1,24 @@
+html,
+body {
+  height: auto;
+  font-family: sans-serif;
+}
+
+body {
+  background-image: linear-gradient(to bottom, #7cceb1, #7948dc);
+  background-repeat: no-repeat;
+  color: #fff;
+}
+
+.listeThemePerso {
+  border: solid red thin;
+}
+.themeItem {
+  border: solid blue thin;
+}
+.themeItem button {
+  background-color: #ff0000;
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+}
